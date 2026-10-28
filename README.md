@@ -1,6 +1,6 @@
 # AI Bubble Bear Case: Minimal Replication Notebook
 
-A short replication notebook accompanying my [LinkedIn post]([LINK_TO_LINKEDIN_POST](https://lnkd.in/p/erBwKfu2)) co-authored with Max MikoLevine, sharing *The Case for an AI Bubble*, a presentation we prepared and delivered at Justin Hott's Columbia Sunday Finance Seminar.
+A short replication notebook accompanying my [LinkedIn post](https://lnkd.in/p/erBwKfu2) co-authored with Max MikoLevine, sharing *The Case for an AI Bubble*, a presentation we prepared and delivered at Justin Hott's Columbia Sunday Finance Seminar.
 
 The notebook reproduces two historical analyses from the presentation:
 
